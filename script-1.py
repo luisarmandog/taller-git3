@@ -29,4 +29,21 @@ def factorizacion(n):
         factors.append(n)
     return factors
 
+# division 
+
+def division(dividendo, divisor):
+    try:
+        resultado = dividendo / divisor
+        return resultado
+    except ZeroDivisionError:
+        return "Error: No se puede dividir por cero"
+
+# Solicitar input al usuario
+dividendo = float(input("Ingresa el dividendo: "))
+divisor = float(input("Ingresa el divisor: "))
+
+# Calcular la división y mostrar el resultado
+resultado = division(dividendo, divisor)
+print("Resultado:", resultado)
+
 

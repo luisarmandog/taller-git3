@@ -9,3 +9,7 @@ def suma(a, b):
 # Resta
 def resta(a,b):
     return a - b
+
+# multiplicacion
+def multiplicacion(a,b):
+    return a * b

@@ -58,5 +58,10 @@ def sumaresta(a,b,c):
 def sumadivision(a,b,c):
     return((a+a)/c)
 
+# Divison y Resta
+
+def divisionresta(a,b,c):
+    return((a/b)-c)
+
 
 

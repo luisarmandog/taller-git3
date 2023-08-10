@@ -47,3 +47,9 @@ resultado = division(dividendo, divisor)
 print("Resultado:", resultado)
 
 
+# Suma y Resta
+
+def sumaresta(a+b-c):
+    return(a+b-c)
+
+

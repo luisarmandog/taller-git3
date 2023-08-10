@@ -47,3 +47,11 @@ resultado = division(dividendo, divisor)
 print("Resultado:", resultado)
 
 
+# iteración 
+
+inicio = 1
+fin = 10
+
+for numero in range(inicio, fin+1):
+    print(numero)
+

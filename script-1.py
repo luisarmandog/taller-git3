@@ -49,7 +49,14 @@ print("Resultado:", resultado)
 
 # Suma y Resta
 
-def sumaresta(a+b-c):
+def sumaresta(a,b,c):
     return(a+b-c)
+
+
+# Suma y División
+
+def sumadivision(a,b,c):
+    return((a+a)/c)
+
 
 
